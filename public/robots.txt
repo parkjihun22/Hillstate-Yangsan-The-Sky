@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hillstategodeok-elisth.co.kr/sitemap.xml
+Sitemap: https://www.alwatanyh.com/sitemap.xml

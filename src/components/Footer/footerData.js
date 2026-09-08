@@ -17,7 +17,7 @@ const footerData = {
   familySites: [
     {
       name: "힐스테이트 양산더스카이",
-      url: "https://hillstategodeok-elisth.co.kr/",
+      url: "https://www.alwatanyh.com/",
     },
   ],
 

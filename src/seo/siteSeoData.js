@@ -171,7 +171,7 @@ export const seoPages = {
   home: page({
     path: "/",
     title:
-      "힐스테이트 양산더스카이 | 모델하우스·분양안내",
+      "힐스테이트 양산더스카이",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
